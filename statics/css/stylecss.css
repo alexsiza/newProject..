@@ -1,0 +1,28 @@
+h1{
+
+    background-color:  blue;
+    width: 600px; //quadrado
+    height: 200px;
+    border: solid 10px;
+    border-radius: 20px;  //borda
+    text-align: center;    //centralizar texto
+    font-family: "Arial Black";   //fontes
+    font-size: 50px;      //tamanho da fonte
+    text-shadow: deeppink;  //sombra
+    opacity: 0,5;
+    visibility: visible; //visivel ou oculto
+}
+
+.home{
+    background-color: yellow;
+
+}
+
+.footer {
+    height: 200px;
+}
+
+.footer {
+    background-image: url('/static/image/cao.jpeg ');
+}
+
